@@ -1,5 +1,5 @@
 body {
-    background-color: Lightseagreen;
+    background-color: Limegreen;
 	font-family: Courier New;
 	
 }
@@ -7,26 +7,31 @@ body {
 h1   { 
        color: Aqua; 
   font-family: Courier New;
-  font-size: 40px ;
+  font-size: 45px ;
 }
 
 h2   { 
        color: Tomato; 
        font-family: Courier New;
-       font-size: 50px
+       font-size: 35px
 }
 
 h3 {
-	  color: Lawngreen ;
+	  color: Coral ;
 	  font-family: Courier New;
-	  font-size: 20px
+	  font-size: 30px
 	
 }
+
+h4{ color: OrangeRed ;
+	  font-family: Courier New;
+	  font-size: 30px
+	}
 
 	
 
 p {
-     color: brown; 
+     color: Crimson; 
      font-family: Courier New;
      font-size: 20px;
 	
@@ -74,8 +79,3 @@ p.tilly {
 	font-size: 20px ;
 }
 
-p.pangolin {
-	color: LightGrey ;
-	font-size: 20px ;
-	
-	
