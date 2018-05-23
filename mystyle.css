@@ -1,30 +1,35 @@
 body {
     background-color: Limegreen;
-	font-family: Courier New;
+	font-family: Trebuchet MS;
 	
 }
 
 h1   { 
        color: Aqua; 
-  font-family: Courier New;
-  font-size: 45px ;
+  font-family: Trebuchet MS;
+  font-size: 40px ;
 }
 
 h2   { 
        color: Tomato; 
-       font-family: Courier New;
-       font-size: 35px
+       font-family: Trebuchet MS;
+       font-size: 30px
 }
 
 h3 {
 	  color: Coral ;
-	  font-family: Courier New;
+	  font-family: Trebuchet MS;
 	  font-size: 30px
 	
 }
 
 h4{ color: OrangeRed ;
-	  font-family: Courier New;
+	  font-family: Trebuchet MS;
+	  font-size: 20px
+	}
+	
+	h5{ color: LightGrey ;
+	  font-family: Trebuchet MS;
 	  font-size: 20px
 	}
 
@@ -32,7 +37,7 @@ h4{ color: OrangeRed ;
 
 p {
      color: Crimson; 
-     font-family: Courier New;
+     font-family: Trebuchet MS;
      font-size: 20px;
 	
 }
@@ -45,6 +50,7 @@ width: 30%
 ul {
     list-style-type: none;
     margin: 0;
+	border: 0;
     padding: 0;
     overflow: hidden;
     background-color:MediumSeaGreen ;
@@ -76,6 +82,24 @@ text-align: center;
 
 p.tilly { 
 	color: pink ;
+	font-family: Trebuchet MS;
+	font-size: 20px ;
+}
+
+pre {
+    display: block;
+	color: #7CFC00 ;
+    font-family: monospace;
+    white-space: pre;
+   font-size: 20px ;
+    margin: 3em 0;
+}
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 60px;
+    margin-right: 60px;
 	font-size: 20px ;
 }
 
